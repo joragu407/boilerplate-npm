@@ -5,6 +5,7 @@
 	},
 	"main": "server.js",
 	"author": "joragu407",
+	"description": "probando npm",
 	"scripts": {
 		"start": "node server.js"
 	},
